@@ -9,7 +9,6 @@
     "title": "SoundsOfStreetView",
     "string": "sounds-of-street-view"
   },
-  "license": "",
   "devDependencies": {
     "grunt": "~0.4.2",
     "grunt-contrib-copy": "~0.5.0",
