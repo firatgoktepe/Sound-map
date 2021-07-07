@@ -1,0 +1,18 @@
+{
+  "name": "Sounds-of-Street-View-Framework",
+  "version": "0.0.1",
+  "description": "none",
+  "main": "Gruntfile.js",
+  "keywords": [],
+  "project": {
+    "name": "Sounds Of Street View",
+    "title": "SoundsOfStreetView",
+    "string": "sounds-of-street-view"
+  },
+  "license": "",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-copy": "~0.5.0",
+    "grunt-contrib-uglify": "~0.2.4"
+  }
+}
