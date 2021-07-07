@@ -16,7 +16,7 @@ module.exports = function(grunt) {
         copy: {
             build: {
                 files: {
-                    'build/sosv.min.js': ['src/js/sosv.min.js']
+                    'dist/sosv.min.js': ['src/js/sosv.min.js']
                 }
             }
         },
