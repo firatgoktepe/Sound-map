@@ -15,5 +15,5 @@ npm install
 <p>2. To run minimization processes (Css minify js uglify html parsing )</p>
 
 ```
-gulp
+grunt
 ```
